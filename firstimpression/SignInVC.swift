@@ -7,6 +7,11 @@
 //
 
 import UIKit
+import FBSDKCoreKit
+import FBSDKLoginKit
+import Firebase
+import SwiftKeychainWrapper
+
 
 class SignInVC: UIViewController {
 
